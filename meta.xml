@@ -1,0 +1,11 @@
+<meta>
+
+    <script src="ShFactions.lua" type="shared" />
+    
+    <script src="CID.lua" type="client" />
+    <script src="CNickname.lua" type="client" />
+    <script src="CFactions.lua" type="client" />
+
+    <script src="SID.lua" type="server" />
+    <script src="SFactions.lua" type="server" />
+</meta>
